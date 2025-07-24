@@ -30,7 +30,7 @@ This project applies **YOLOv8** (from Ultralytics) for **real-time object detect
 
 ### 1. Clone the Repo (or download the script)
 ```bash
-git clone https://github.com/<your-username>/vehicle-detection-yolov8.git
+git clone https://github.com/anletnisha/Object_detection.git
 cd vehicle-detection-yolov8
 2. Install Required Packages
 bash
